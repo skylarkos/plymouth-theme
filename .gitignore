@@ -1,0 +1,9 @@
+src/debian/.debhelper
+src/debian/skylarkos-plymouth-theme
+src/debian/debhelper-build-stamp
+src/debian/files
+src/debian/skylarkos-plymouth-theme.substvars
+*.build
+*.buildinfo
+*.deb
+*.changes
