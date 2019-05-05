@@ -1,0 +1,12 @@
+Source: skylarkos-plymouth-theme
+Section: unknown
+Priority: optional
+Maintainer: Chandler Newman <chandler2newman@hotmail.co.uk>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+Homepage: https://skylarkos.com
+
+Package: skylarkos-plymouth-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: SkylarkOS Plymouth boot theme
